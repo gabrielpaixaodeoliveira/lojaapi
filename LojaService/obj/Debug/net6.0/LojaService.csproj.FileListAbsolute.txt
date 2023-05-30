@@ -1,0 +1,12 @@
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\bin\Debug\net6.0\LojaService.deps.json
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\bin\Debug\net6.0\LojaService.dll
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\bin\Debug\net6.0\LojaService.pdb
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\LojaService.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\LojaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\LojaService.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\LojaService.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\LojaService.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\LojaService.dll
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\refint\LojaService.dll
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\LojaService.pdb
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaService\obj\Debug\net6.0\ref\LojaService.dll

@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\bin\Debug\net6.0\LojaRepository.deps.json
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\bin\Debug\net6.0\LojaRepository.dll
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\bin\Debug\net6.0\LojaRepository.pdb
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\bin\Debug\net6.0\LojaService.dll
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\bin\Debug\net6.0\LojaService.pdb
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.csproj.CopyComplete
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.dll
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\refint\LojaRepository.dll
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\LojaRepository.pdb
+C:\Users\PICHAU\Documents\NovaLoja\LojaApi\LojaRepository\obj\Debug\net6.0\ref\LojaRepository.dll
